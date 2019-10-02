@@ -11,6 +11,11 @@
 
 }
 
+.winner {
+  border:3px solid yellow;
+  border-radius: 100%;
+}
+
 body {
   background-color: #393E46;
 }
